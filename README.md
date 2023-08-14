@@ -10,7 +10,7 @@
 
 ## API Reference
 
-### 1. ExerciseDB - API for fetching exercise data.
+#### 1. ExerciseDB - API for fetching exercise data.
 ```http
   rapidapi.com/justin-WFnsXH_t6/api/exercisedb
 ```
