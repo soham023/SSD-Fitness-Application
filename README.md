@@ -10,7 +10,7 @@
 
 ## API Reference
 
-### Here I've used 2 free APIs for fetching data in the frontend and after that, I've displayed it using Material UI and its components.
+#### Here I've used 2 free APIs for fetching data in the frontend and after that, I've displayed it using Material UI and its components.
 ### 1st API for fetching exercise data : 
 #### ExerciseDB
 
