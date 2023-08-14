@@ -10,16 +10,12 @@
 
 ## API Reference
 
-#### Here I've used 2 free APIs for fetching data in the frontend and after that, I've displayed it using Material UI and its components.
-### 1st API for fetching exercise data : 
-#### ExerciseDB
-
+### 1. ExerciseDB - API for fetching exercise data.
 ```http
   rapidapi.com/justin-WFnsXH_t6/api/exercisedb
 ```
-### 2nd API or fetching youtube videos related to that particular exercise which is selected and similar exercises : 
-#### Youtube Search and Download
 
+#### 2. Youtube Search and Download - API for fetching youtube videos related to that particular exercise
 ```http
   rapidapi.com/h0p3rwe/api/youtube-search-and-download
 ```
