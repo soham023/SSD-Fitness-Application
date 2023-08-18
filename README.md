@@ -17,8 +17,12 @@ __Deployed-Link :__ https://ssd-gym.netlify.app/
 ```
 
 2. __Youtube Search and Download -__ API for fetching youtube videos related to that particular exercise
+
+https://github.com/soham023/SSD-Fitness-Application/assets/74462821/03ad470b-64d3-4eb3-bbca-fb49f8d61d80
+
+
 ```http
   rapidapi.com/h0p3rwe/api/youtube-search-and-download
 ```
 To watch the Demo video :
-[![Demo Video](https://i.ibb.co/Yt9spGc/image.png)](https://rb.gy/hc1c1)]
+
