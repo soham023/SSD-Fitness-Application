@@ -21,4 +21,4 @@ __Deployed-Link :__ https://ssd-gym.netlify.app/
   rapidapi.com/h0p3rwe/api/youtube-search-and-download
 ```
 To watch the demo video :
-![React Fitness Application](https://shorturl.at/atyTV)
+[![IMAGE ALT TEXT](https://i.ibb.co/Yt9spGc/image.png)](https://rb.gy/hc1c1)
