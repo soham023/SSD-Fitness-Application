@@ -21,8 +21,8 @@ __Deployed-Link :__ https://ssd-gym.netlify.app/
   rapidapi.com/h0p3rwe/api/youtube-search-and-download
 ```
 To watch the Demo video :
-https://github.com/soham023/SSD-Fitness-Application/assets/74462821/03ad470b-64d3-4eb3-bbca-fb49f8d61d80
 
+https://github.com/soham023/SSD-Fitness-Application/assets/74462821/61466b82-7c07-4528-82d8-6d92d40ee69e
 
 
 
