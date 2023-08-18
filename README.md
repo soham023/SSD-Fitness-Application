@@ -21,4 +21,4 @@ __Deployed-Link :__ https://ssd-gym.netlify.app/
   rapidapi.com/h0p3rwe/api/youtube-search-and-download
 ```
 To watch the Demo video :
-![Demo Video](https://i.ibb.co/Yt9spGc/image.png)](https://rb.gy/hc1c1)
+[![Demo Video](https://i.ibb.co/Yt9spGc/image.png)](https://rb.gy/hc1c1)]
